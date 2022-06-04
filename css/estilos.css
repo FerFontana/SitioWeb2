@@ -1,0 +1,30 @@
+details{
+    background-color: aquamarine;
+}
+
+.principal{
+    background-color: darkkhaki;
+}
+
+.parrafoResaltado{
+    font-size: 24px;
+    padding: 30px;
+    border: double 4px; background-color: palegoldenrod;
+    border-radius: 10px;
+    background-color: mediumvioletred;
+    margin: 30px;
+}
+
+#ParrafoEspecial{
+    background-color: lawngreen;
+    border-radius: 75px;
+    padding: 35px;
+}
+#ParrafoEspecial:hover{
+    background-color: orchid;
+    border-radius: 75px;
+    padding: 35px;
+}
+p:hover{
+    text-decoration: underline;
+}
